@@ -1,0 +1,14 @@
+이 파일은 코드 실행 순서를 나타낸 것입니다. 순서대로 보시면 됩니다.
+
+1) customer_segmentation_with_pseudo_labels 
+2) customer_segmentation
+3) customer_segmentation_with_pseudo_labels_update 
+→ 3번 실험이 가장 높은 정확도와 분류 성능을 보였습니다.
+
+4) pseudo_labeling_clustering_randomforest
+5) pseudo_labeling_DBSCAN_randomforest
+6) clustering_pipeline
+→ 4번 실험에서 가장 높은 정확도가 나왔지만, 시각화 결과에서 분류가 뚜렷하지 않았습니다.
+→ 이에 따라 5번과 6번 실험을 추가로 진행했습니다.
+→ 6번 실험은 4번 실험보다 정확도는 낮지만 시각화 상에서 더 잘 분류되는 결과를 보였습니다.
+
