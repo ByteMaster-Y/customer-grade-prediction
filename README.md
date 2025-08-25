@@ -73,6 +73,7 @@
 - **단점**: 초기화, 하이퍼파라미터 의존, 구현 복잡
 
 **클러스터링 시각화 예시**
+<img width="1082" height="391" alt="Image" src="https://github.com/user-attachments/assets/a9e57044-79fe-40d1-894c-03eaf1efd088" />
 <img width="1085" height="380" alt="Image" src="https://github.com/user-attachments/assets/6457cab4-d434-4ab6-a956-d065decf3db3" />
 
 
