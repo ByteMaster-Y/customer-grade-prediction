@@ -32,8 +32,8 @@
   - 장점: 안정적, 구현 간단
   - 단점: 사근 데이터 활용 불가  
 
-![Blueprint](https://github.com/user-attachments/assets/d9923cd1-9931-4017-8e41-a2d80cf137e6)
-
+**Baseline 예시 시각화**
+<img width="1068" height="403" alt="Image" src="https://github.com/user-attachments/assets/cc367b52-58b1-4f19-99e1-f28082f932b2" />
 
 ---
 
