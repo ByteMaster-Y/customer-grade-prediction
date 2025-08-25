@@ -13,7 +13,8 @@
 
 ## 프로젝트 배경
 최근 인수한 사근 쇼핑몰은 일부 특성만 존재하고 고객 등급 레이블이 없어, 기존 소융 쇼핑몰 데이터를 활용해 모델을 학습하고 사근 데이터를 통합하는 방법이 필요했습니다.  
-목표:
+
+**목표**:
 1. 소융 데이터만으로 안정적인 baseline 성능 확보
 2. 라벨 없는 사근 데이터 활용
 3. 모델 일반화 성능 향상
@@ -33,7 +34,7 @@
   - 단점: 사근 데이터 활용 불가  
 
 **Baseline 예시 시각화**
-<img width="1068" height="403" alt="Image" src="https://github.com/user-attachments/assets/cc367b52-58b1-4f19-99e1-f28082f932b2" />
+<img width="1583" height="590" alt="Image" src="https://github.com/user-attachments/assets/9a9d8350-8edf-40f7-8236-40f2f221152d" />
 
 ---
 
