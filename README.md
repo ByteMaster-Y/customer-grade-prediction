@@ -32,7 +32,8 @@
   - 장점: 안정적, 구현 간단
   - 단점: 사근 데이터 활용 불가  
 
-**Confusion Matrix (Baseline)**  
+![Blueprint](https://github.com/user-attachments/assets/d9923cd1-9931-4017-8e41-a2d80cf137e6)
+
 
 ---
 
@@ -53,7 +54,8 @@
 - **단점**: pseudo-label 품질 의존, noise 존재 가능
 
 **Pseudo-label 예시 시각화**
-![Pseudo-label](https://user-images.githubusercontent.com/your_image_placeholder/pseudo_label.png)
+![Blueprint](https://github.com/user-attachments/assets/d9923cd1-9931-4017-8e41-a2d80cf137e6)
+
 
 ---
 
@@ -71,7 +73,8 @@
 - **단점**: 초기화, 하이퍼파라미터 의존, 구현 복잡
 
 **클러스터링 시각화 예시**
-![Cluster](https://user-images.githubusercontent.com/your_image_placeholder/cluster.png)
+![Blueprint](https://github.com/user-attachments/assets/d9923cd1-9931-4017-8e41-a2d80cf137e6)
+
 
 ---
 
