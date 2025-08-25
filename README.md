@@ -54,7 +54,7 @@
 - **단점**: pseudo-label 품질 의존, noise 존재 가능
 
 **Pseudo-label 예시 시각화**
-![Blueprint](https://github.com/user-attachments/assets/d9923cd1-9931-4017-8e41-a2d80cf137e6)
+<img width="1082" height="390" alt="Image" src="https://github.com/user-attachments/assets/4ec26cee-e5b0-422e-a610-22341102df96" />
 
 
 ---
