@@ -73,7 +73,7 @@
 - **단점**: 초기화, 하이퍼파라미터 의존, 구현 복잡
 
 **클러스터링 시각화 예시**
-![Blueprint](https://github.com/user-attachments/assets/d9923cd1-9931-4017-8e41-a2d80cf137e6)
+<img width="1085" height="380" alt="Image" src="https://github.com/user-attachments/assets/6457cab4-d434-4ab6-a956-d065decf3db3" />
 
 
 ---
