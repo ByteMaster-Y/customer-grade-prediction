@@ -77,7 +77,8 @@
 <img width="1082" height="391" alt="Image" src="https://github.com/user-attachments/assets/a9e57044-79fe-40d1-894c-03eaf1efd088" />
 <img width="1085" height="380" alt="Image" src="https://github.com/user-attachments/assets/6457cab4-d434-4ab6-a956-d065decf3db3" />
 
-
+** 클러스터링 실험의 아쉬운점**
+<img width="1466" height="735" alt="Image" src="https://github.com/user-attachments/assets/5ed519fe-06c2-407f-81f5-90c1664a7e5a" />
 ---
 
 ## 실험 비교
